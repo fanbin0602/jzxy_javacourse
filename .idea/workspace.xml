@@ -1,12 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ebe0cb9-841b-42a8-8647-65d05ed307dd" name="Default Changelist" comment="" />
+    <list default="true" id="1ebe0cb9-841b-42a8-8647-65d05ed307dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/part3/E01IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/part3/E02MaxNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/part3/E03MaxNumberElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/part3/E04FindDivWithoutLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/part3/E05SimpleFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/part3/E06ForFindDiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/part3/E07PrintChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/part3/E08ForBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/part3/E09ForContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/part3/E10MultiTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/part3/E11CodeBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/part3/E12WhileFindDiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/part3/E13DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/part3/E14EndlessLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/part3/E15NotEndlessLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/part3/E15NotEndlessLoopBetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/part3/E16SwitchIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/part3/E17Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter2/part2/E92ForceConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter2/part2/E92ForceConvert.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="test: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -14,6 +76,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -23,11 +88,15 @@
     </option>
   </component>
   <component name="ProjectId" id="1QHeyE4oOD7pkl7Wljrmu9oret3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -51,9 +120,48 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.E9BitShift">
-    <configuration name="E3CompareOprt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.part2.E3CompareOprt" />
+  <component name="RunManager" selected="Application.E10MultiTable">
+    <configuration name="E10MultiTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.part3.E10MultiTable" />
+      <module name="javacourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.part3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E17Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.part3.E17Switch" />
+      <module name="javacourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.part3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E18SwitchWithoutBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.part3.E18SwitchWithoutBreak" />
+      <module name="javacourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.part3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E91AutoConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.part2.E91AutoConvert" />
       <module name="javacourse" />
       <extension name="coverage">
         <pattern>
@@ -65,47 +173,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E5ParentCprt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.part2.E5ParentCprt" />
-      <module name="javacourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter2.part2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E6OprtNotChangeVarValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.part2.E6OprtNotChangeVarValue" />
-      <module name="javacourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter2.part2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E8BitCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.part2.E8BitCalc" />
-      <module name="javacourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter2.part2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E9BitShift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.part2.E9BitShift" />
+    <configuration name="E92ForceConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.part2.E92ForceConvert" />
       <module name="javacourse" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.E9BitShift" />
-        <item itemvalue="Application.E8BitCalc" />
-        <item itemvalue="Application.E6OprtNotChangeVarValue" />
-        <item itemvalue="Application.E5ParentCprt" />
-        <item itemvalue="Application.E3CompareOprt" />
+        <item itemvalue="Application.E10MultiTable" />
+        <item itemvalue="Application.E92ForceConvert" />
+        <item itemvalue="Application.E91AutoConvert" />
+        <item itemvalue="Application.E18SwitchWithoutBreak" />
+        <item itemvalue="Application.E17Switch" />
       </list>
     </recent_temporary>
   </component>
@@ -138,11 +207,29 @@
       <option name="presentableId" value="Default" />
       <updated>1567432200400</updated>
       <workItem from="1567432204419" duration="3071000" />
-      <workItem from="1567482132786" duration="2694000" />
+      <workItem from="1567482132786" duration="4354000" />
+      <workItem from="1567762773017" duration="959000" />
+      <workItem from="1567839588420" duration="2411000" />
+      <workItem from="1567950679396" duration="8891000" />
+      <workItem from="1568099762225" duration="590000" />
+      <workItem from="1568100723407" duration="730000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
