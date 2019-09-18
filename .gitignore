@@ -99,3 +99,9 @@ hs_err_pid*
 !/.project
 !/target/
 !/.idea/
+/.classpath
+/.project
+/target/classes/META-INF/javacourse.kotlin_module
+/.settings/org.eclipse.jdt.apt.core.prefs
+/.settings/org.eclipse.jdt.core.prefs
+/.settings/org.eclipse.m2e.core.prefs
