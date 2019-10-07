@@ -7,7 +7,7 @@ package chapter2.part2;
  */
 public class E4BoolOprt {
 
-    public static void main(String[] args) {
+public static void main(String[] args) {
         boolean a = true;
         boolean b = false;
 
@@ -18,6 +18,6 @@ public class E4BoolOprt {
 
         System.out.println(a || (10 / 0 > 1));
         System.out.println(a | (10 / 0 > 1));
-    }
+        }
 
-}
+        }
