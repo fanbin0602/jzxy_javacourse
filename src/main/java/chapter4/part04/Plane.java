@@ -7,6 +7,7 @@ package chapter4.part04;
  */
 public class Plane implements Flyer {
 
+    @Override
     public void fly() {
         System.out.println("我是一个飞机，我飞了");
     }
