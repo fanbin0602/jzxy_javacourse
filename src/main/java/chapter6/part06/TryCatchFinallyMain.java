@@ -25,7 +25,7 @@ public class TryCatchFinallyMain {
             return len;
         } finally {
             // 可以认为 finally 语句会在方法返回后，后面的语句执行前，在 return 后执行。
-            // 无论是因为 return 技术还是因为 异常结束，finally 都会执行
+            // 无论是因为 return 结束还是因为出现异常结束，finally 都会执行
             System.out.println("执行了 finally 里的语句");
 
             // finally 里面最好不要有 return 语句
