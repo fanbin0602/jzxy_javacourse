@@ -10,6 +10,10 @@ public class TryCatchFinallyMain2 {
 
     public static void main(String[] args) {
         String str = null;
+        // 这句打印 -1
+        System.out.println(withFinally(str));
+        str = "abc";
+        // 这句打印 3
         System.out.println(withFinally(str));
         System.out.println(VAL);
     }
