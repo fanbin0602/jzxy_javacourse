@@ -11,7 +11,7 @@ public class ReadFile {
 
     public static void main(String[] args) {
 
-        File sourceFile = new File("." + File.separator + "students/16.txt");
+        File sourceFile = new File("." + File.separator + "students/demo.txt");
 
         // try with resource，思考：为什么要这样写？
         try (
