@@ -6,16 +6,19 @@ public class UseThreadLocalAppMain {
 
     public static void main(String[] args) {
         for (int i = 1; i <= 3; i++) {
-            Thread workingThread = new Thread(() -> {
-                System.out.println(Thread.currentThread().getName() + "开始处理……");
-                PerformanceTracker.reset();
+            Thread workingThread = new Thread(new Runnable() {
+                @Override
+                public void run() {
+                    System.out.println(Thread.currentThread().getName() + "开始处理……");
+                    PerformanceTracker.reset();
 
-                Work work = new Work();
-                work.doWork();
+                    Work work = new Work();
+                    work.doWork();
 
-                PerformanceTracker.finish();
-                System.out.println(Thread.currentThread().getName() + "处理结束");
+                    PerformanceTracker.finish();
+                    System.out.println(Thread.currentThread().getName() + "处理结束");
 
+                }
             }, "Work-" + i);
             workingThread.start();
         }
