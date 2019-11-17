@@ -6,7 +6,8 @@ package chapter10.part01;
  */
 public class TreadExample {
 
-    private static final String TEXT = "小时候我喜欢喝可乐，长大了不喜欢了，我没错可乐也没错。";
+    // private static final String TEXT = "小时候我喜欢喝可乐，长大了不喜欢了，我没错可乐也没错。";
+    private static final String TEXT = "你当像鸟飞往你的山。";
 
     public static void main(String[] args) throws InterruptedException {
         printSlowly(TEXT, 300);
